@@ -1,0 +1,6 @@
+Problem Statement: 
+Quarterly beer sales data has been provided in the beer.csv files.
+
+Part A) Using the Winter-Holts methods and model the data and predict for the next 2 years. 
+
+Part B) Using the ARIMA method model the data and predict for the next 2 years.
